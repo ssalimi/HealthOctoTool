@@ -1,6 +1,6 @@
 # Health Octo Tool (HOT)
 ## Global Statistical Frame Work
-### The BODN, Disability Index, and Health Octo Tool definitions and its components, algorithms, and codes are on the provisional patent. Copy or claiming similar algorithms are prone to copy right and legal responses. 
+### The BODN, Disability Index, and Health Octo Tool definitions, components, algorithms, and codes are on the provisional patent. Copy or claiming similar algorithms are prone to copyright and legal responses. 
 
 **Body Organ Disease Number (BODN):** BODN is determined as the number of organs with at least one impairment. Pathology at the specific organ level is established based on predefined impairment criteria for clinical practice disease diagnoses. An organ system contributes to BODN  if it has at least one positive criterion. 
 - BODN behaves as a progressive irregular arithmetic sequence and, hence, behaves ordinal in the statistical models. 
