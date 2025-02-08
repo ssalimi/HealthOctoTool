@@ -184,3 +184,5 @@ y_new: The new predicted response categories are generated using the ordered_log
 Step 2: For the new data, pass in the new design matrix (X_new), new monotonic variables, and any group-level information.
 
 Step 3: Run the Stan model in "generated quantities" mode to generate new predictions using the y_new vector.
+
+These materials are uploaded  https://zenodo.org/records/14835216
