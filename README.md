@@ -1,4 +1,4 @@
-# Health Octo Tool (HOT)
+# Health Octo Tool
 ## Global Statistical Frame Work
 ### The BODN, Disability Index, and Health Octo Tool definitions, components, algorithms, and codes are on the provisional patent. Copy or claiming similar algorithms are prone to copyright and legal responses. 
 
